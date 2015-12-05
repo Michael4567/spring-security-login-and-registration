@@ -1,0 +1,3 @@
+org\baeldung\test\SpringSecurityRolesIntegrationTest.class
+org\baeldung\spring\ConfigTest.class
+org\baeldung\test\ChangePasswordLiveTest.class
